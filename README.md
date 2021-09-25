@@ -12,15 +12,12 @@
 
 Laços são estruturas de repetição que são executadas até que uma condição seja verdadeira. Como usá-los?
 
- - Para interar um Array
- - Para repetir um bloco ( trecho ) de código
- - Para automatizar um bloco de código
- - etc.
+ - Para interar um Array, para repetir um bloco ( trecho ) de código, para automatizar um bloco de código, etc.
 
 <br>
 <br>
 
-| Sintáse | Descricao |
+| Sintáse | Descrição |
 | ----------- | ----------- |
 |`For`   | repete um bloco de código enquanto uma condição for verdadeira. |
 |`While` | Caso a condição seja verdadeira, ele executa o bloco de código.|
@@ -345,7 +342,7 @@ alunas = [...alunas, ...alunas2]; // metodo 2 - Spread Operator
 
 
 ##  Outros métodos
-| Sintáse | Descricao |
+| Sintáse | Descrição |
 | ----------- | ----------- |
 |array`.forEach`   | `pecorre um array`, sem `modificar` o array original |
 |array.`find` | `encontra o primeiro` elemento do array especificado e o retorna|
