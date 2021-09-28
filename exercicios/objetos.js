@@ -62,7 +62,9 @@ const client = {
 }
 
 
-console.log(client.cpf)
-console.log(client.endereco.rua)
-console.log(client["endereco"]["rua"])
+console.log(client.cpf) // aqui estou acessando client . cpf
+console.log(client.endereco.rua) // aqui estou acessando, client . endereco . rua
+console.log(client["endereco"]["rua"]) // 
 console.log(client.cartoes[1].nome)
+
+
